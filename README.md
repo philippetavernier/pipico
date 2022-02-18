@@ -1,1 +1,4 @@
 # pipico
+
+https://thonny.org/
+
